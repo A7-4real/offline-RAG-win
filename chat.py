@@ -1,5 +1,6 @@
 # setup drive link : https://drive.google.com/file/d/1f9KTOMyoBXuyVxrrRTlb9qRSWPLZ3RdE/view?usp=drive_link
-drive 2 :  https://drive.google.com/drive/folders/19AlZYNMR0yjUTiXCWNkEjKa1xHd8kaHl
+# drive 2 :  https://drive.google.com/drive/folders/19AlZYNMR0yjUTiXCWNkEjKa1xHd8kaHl
+# pip install --no-index --find-links=./linux_staging_wheels -r ./linux_staging_wheels/linux_requirements.txt
 
 import sys
 import json
